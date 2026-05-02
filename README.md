@@ -107,7 +107,7 @@ O relatório é composto por **3 páginas navegáveis**, acessíveis pelas abas 
 > Análise detalhada do lucro: decomposição por ano, distribuição por país e segmento, e evolução trimestral.
 
 <p align="center">
-  <img src="000-Midia_e_Anexos/2026-05-02-09-31-10.png" alt="" width="1024">
+  <img src="000-Midia_e_Anexos/2026-05-02-09-41-17.png" alt="" width="1024">
 </p>
 
 **Elementos presentes na página:**
@@ -129,7 +129,7 @@ O relatório é composto por **3 páginas navegáveis**, acessíveis pelas abas 
   | Mexico | 592.670,26 |
   | United States | 552.570,83 |
 
-- **Gráfico Radar — Visual Personalizado:** Análise multidimensional do lucro por segmento *(requer instalação do visual customizado `RadarChart1446119667547`).*
+- **Gráfico Radar — Visual Personalizado:** Análise multidimensional do lucro por segmento.
 
 - **Treemap — Soma de Profit por Segment:** Representação proporcional da participação de cada segmento no lucro total (Government e Small Business em destaque).
 
