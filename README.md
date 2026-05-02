@@ -100,6 +100,10 @@ O relatório é composto por **3 páginas navegáveis**, acessíveis pelas abas 
   | Trim 4 | 21.931.255,48 | 29.758.822,02 | **51.690.077,50** |
   | **Total** | **26.415.255,51** | **92.311.094,75** | **118.726.350,26** |
 
+> 💡 **Análise — Concentração e Sazonalidade**
+>
+> Dois padrões estruturais se destacam nesta página. O primeiro é a **alta concentração por segmento**: Government (~53 Mi) e Small Business (~42 Mi) juntos respondem por cerca de **80% da receita total**, tornando a empresa altamente dependente desses dois clientes estratégicos — o que representa tanto uma vantagem competitiva quanto um risco de concentração que merece acompanhamento. O segundo padrão é a **forte sazonalidade no Trim 4**: com R$ 51,6 Mi, o quarto trimestre concentra **43,5% de toda a receita anual**, com picos evidentes em outubro e novembro. Esse comportamento sugere que a maior parte das metas comerciais é fechada no final do ano, o que exige planejamento diferenciado de estoque, equipe e fluxo de caixa para os demais trimestres.
+
 ---
 
 ### 📄 Página 2 — Profit (Report de Lucro Detalhado)
@@ -135,6 +139,10 @@ O relatório é composto por **3 páginas navegáveis**, acessíveis pelas abas 
 
 - **Gráfico de cascata (Waterfall) — Soma de Profit por Trimestre:** Visualização de acréscimos de lucro trimestre a trimestre, com indicadores de aumento (verde), diminuição (vermelho) e total (azul).
 
+> 💡 **Análise — Crescimento e Margem de Lucro**
+>
+> O dado mais expressivo desta página é o **crescimento de ~235% no lucro entre 2013 e 2014** — de R$ 3,87 Mi para R$ 13,01 Mi — sobre uma base de vendas que também cresceu, mas em proporção menor. Isso indica uma **melhora significativa na eficiência operacional ou na política de preços** ao longo do período. Relacionando com a receita total de R$ 118,73 Mi, a margem de lucro consolidada fica em torno de **14,2%** — um indicador relevante para benchmarking setorial. No recorte por país (2013), **Germany** lidera com R$ 1,11 Mi de lucro, enquanto **United States** apresenta o menor resultado (R$ 552 mil), sugerindo que há oportunidade de revisão de estratégia comercial nesse mercado. O gráfico de cascata reforça que o crescimento trimestral foi consistente e progressivo, sem quedas, o que indica solidez no desempenho ao longo do ano.
+
 ---
 
 ### 📄 Página 3 — Report (Report de Vendas Detalhado)
@@ -167,25 +175,9 @@ O relatório é composto por **3 páginas navegáveis**, acessíveis pelas abas 
   - Outubro registra o maior volume: **~22 Mi** em Gross Sales e **~17 Mi** em Sales
   - Evidencia sazonalidade e impacto de descontos sobre a receita bruta
 
----
-
-## 💡 Exemplos e Análises
-
-### 📌 Análise 1 — Concentração de Vendas por Segmento
-
-O segmento **Government** lidera com aproximadamente **R$ 53 Mi (44,6%)** do total de vendas, seguido por **Small Business** com R$ 42 Mi (35,4%). Juntos, esses dois segmentos representam cerca de **80% da receita total**, evidenciando alta concentração e a importância estratégica desses clientes.
-
----
-
-### 📌 Análise 2 — Sazonalidade no Quarto Trimestre
-
-O **Trim 4** concentra mais de **R$ 51,6 Mi** em vendas, o que corresponde a **43,5% do total anual**. O gráfico de vendas por período confirma picos nos meses de outubro e novembro, sugerindo forte sazonalidade no final do ano — possivelmente relacionada a datas comerciais relevantes.
-
----
-
-### 📌 Análise 3 — Crescimento de 2013 para 2014
-
-O lucro saltou de **R$ 3,87 Mi** (2013) para **R$ 13,01 Mi** (2014), representando um crescimento de aproximadamente **235%**. A árvore de decomposição (Profit Page) permite identificar quais países e segmentos mais contribuíram para esse crescimento.
+> 💡 **Análise — Impacto dos Descontos e Eficiência por Trimestre**
+>
+> A comparação entre **Gross Sales e Sales** nesta página revela o impacto real da política de descontos sobre a receita: em outubro, por exemplo, a diferença entre os ~22 Mi de Gross Sales e os ~17 Mi de Sales representa **cerca de 5 Mi "perdidos" em desconto em um único mês** — o maior spread absoluto do período. Isso levanta uma questão estratégica relevante: os descontos concedidos nos meses de pico estão sendo convertidos em volume suficiente para justificar a compressão de margem? Na visão por trimestre, o **Trim 4 também domina o lucro** com R$ 7,52 Mi (44,5% do total), mas os trimestres 1 e 2 — existentes apenas em 2014 — já somam R$ 5,86 Mi juntos, sinalizando que a empresa entrou em 2014 com operação mais robusta e distribuída ao longo do ano, o que é um indicativo positivo de maturidade comercial.
 
 ---
 
