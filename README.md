@@ -65,7 +65,7 @@ O relatório é composto por **3 páginas navegáveis**, acessíveis pelas abas 
 > Visão geral das vendas: KPIs globais, distribuição por segmento e evolução temporal das vendas.
 
 <p align="center">
-  <img src="000-Midia_e_Anexos/2026-05-02-09-31-10.png" alt="" width="1024">
+  <img src="000-Midia_e_Anexos/2026-05-02-09-28-36.png" alt="" width="1024">
 </p>
 
 **Elementos presentes na página:**
@@ -107,7 +107,7 @@ O relatório é composto por **3 páginas navegáveis**, acessíveis pelas abas 
 > Análise detalhada do lucro: decomposição por ano, distribuição por país e segmento, e evolução trimestral.
 
 <p align="center">
-  <img src="000-Midia_e_Anexos/profit_page.png" alt="" width="480">
+  <img src="000-Midia_e_Anexos/2026-05-02-09-31-10.png" alt="" width="1024">
 </p>
 
 **Elementos presentes na página:**
@@ -142,7 +142,7 @@ O relatório é composto por **3 páginas navegáveis**, acessíveis pelas abas 
 > Visão comparativa de vendas e gross sales: evolução mensal, desempenho trimestral e análise de crescimento.
 
 <p align="center">
-  <img src="000-Midia_e_Anexos/report_page.png" alt="" width="480">
+  <img src="000-Midia_e_Anexos/2026-05-02-09-34-57.png" alt="" width="1024">
 </p>
 
 **Elementos presentes na página:**
