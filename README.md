@@ -214,7 +214,7 @@ A comparação entre **Gross Sales e Sales** nesta página revela o impacto real
 
 ---
 
-## 🔗 Referências
+## Referências
 
 - [DIO — Digital Innovation One](https://www.dio.me/)
 - [Financial Sample — Microsoft](https://learn.microsoft.com/pt-br/power-bi/create-reports/sample-financial-download)
