@@ -65,7 +65,7 @@ O relatório é composto por **3 páginas navegáveis**, acessíveis pelas abas 
 > Visão geral das vendas: KPIs globais, distribuição por segmento e evolução temporal das vendas.
 
 <p align="center">
-  <img src="000-Midia_e_Anexos/2026-05-02-09-28-36.png" alt="" width="480">
+  <img src="000-Midia_e_Anexos/2026-05-02-09-28-36.png" alt="" width="1024">
 </p>
 
 **Elementos presentes na página:**
