@@ -6,7 +6,7 @@ Relatório analítico interativo de Vendas e Lucros desenvolvido no Power BI, co
 
 ---
 
-## 📌 Sobre o Projeto
+## Sobre o Projeto
 
 Este projeto foi desenvolvido como **Desafio de Projeto** do módulo **"Criando um Relatório de Vendas e Lucros com Data Analytics com Power BI"**, parte da trilha **Formação Power BI Analyst** da [DIO](https://www.dio.me/).
 
@@ -31,7 +31,7 @@ O objetivo é construir um relatório gerencial com **três páginas distintas**
 
 ---
 
-## 🗃️ Base de Dados
+## Base de Dados
 
 A base de dados utilizada é a **Financial Sample**, planilha pública da Microsoft amplamente utilizada em tutoriais de análise de dados.
 
@@ -56,13 +56,13 @@ A base de dados utilizada é a **Financial Sample**, planilha pública da Micros
 
 ---
 
-## 📊 O Dashboard
+## O Dashboard
 
 O relatório é composto por **3 páginas navegáveis**, acessíveis pelas abas na parte inferior e por botões de navegação internos.
 
 ---
 
-### 📄 Página 1 — Sales (Home Page)
+### Página 1 — Sales (Home Page)
 
 > Visão geral das vendas: KPIs globais, distribuição por segmento e evolução temporal das vendas.
 
@@ -102,13 +102,13 @@ O relatório é composto por **3 páginas navegáveis**, acessíveis pelas abas 
   | Trim 4 | 21.931.255,48 | 29.758.822,02 | **51.690.077,50** |
   | **Total** | **26.415.255,51** | **92.311.094,75** | **118.726.350,26** |
 
-> 💡 **Análise — Concentração e Sazonalidade**
->
-> Dois padrões estruturais se destacam nesta página. O primeiro é a **alta concentração por segmento**: Government (~53 Mi) e Small Business (~42 Mi) juntos respondem por cerca de **80% da receita total**, tornando a empresa altamente dependente desses dois clientes estratégicos — o que representa tanto uma vantagem competitiva quanto um risco de concentração que merece acompanhamento. O segundo padrão é a **forte sazonalidade no Trim 4**: com R$ 51,6 Mi, o quarto trimestre concentra **43,5% de toda a receita anual**, com picos evidentes em outubro e novembro. Esse comportamento sugere que a maior parte das metas comerciais é fechada no final do ano, o que exige planejamento diferenciado de estoque, equipe e fluxo de caixa para os demais trimestres.
+**Análise — Concentração e Sazonalidade**
+
+Dois padrões estruturais se destacam nesta página. O primeiro é a **alta concentração por segmento**: Government (~53 Mi) e Small Business (~42 Mi) juntos respondem por cerca de **80% da receita total**, tornando a empresa altamente dependente desses dois clientes estratégicos — o que representa tanto uma vantagem competitiva quanto um risco de concentração que merece acompanhamento. O segundo padrão é a **forte sazonalidade no Trim 4**: com R$ 51,6 Mi, o quarto trimestre concentra **43,5% de toda a receita anual**, com picos evidentes em outubro e novembro. Esse comportamento sugere que a maior parte das metas comerciais é fechada no final do ano, o que exige planejamento diferenciado de estoque, equipe e fluxo de caixa para os demais trimestres.
 
 ---
 
-### 📄 Página 2 — Profit (Report de Lucro Detalhado)
+### Página 2 — Profit (Report de Lucro Detalhado)
 
 > Análise detalhada do lucro: decomposição por ano, distribuição por país e segmento, e evolução trimestral.
 
@@ -141,13 +141,13 @@ O relatório é composto por **3 páginas navegáveis**, acessíveis pelas abas 
 
 - **Gráfico de cascata (Waterfall) — Soma de Profit por Trimestre:** Visualização de acréscimos de lucro trimestre a trimestre, com indicadores de aumento (verde), diminuição (vermelho) e total (azul).
 
-> 💡 **Análise — Crescimento e Margem de Lucro**
->
-> O dado mais expressivo desta página é o **crescimento de ~235% no lucro entre 2013 e 2014** — de R$ 3,87 Mi para R$ 13,01 Mi — sobre uma base de vendas que também cresceu, mas em proporção menor. Isso indica uma **melhora significativa na eficiência operacional ou na política de preços** ao longo do período. Relacionando com a receita total de R$ 118,73 Mi, a margem de lucro consolidada fica em torno de **14,2%** — um indicador relevante para benchmarking setorial. No recorte por país (2013), **Germany** lidera com R$ 1,11 Mi de lucro, enquanto **United States** apresenta o menor resultado (R$ 552 mil), sugerindo que há oportunidade de revisão de estratégia comercial nesse mercado. O gráfico de cascata reforça que o crescimento trimestral foi consistente e progressivo, sem quedas, o que indica solidez no desempenho ao longo do ano.
+**Análise — Crescimento e Margem de Lucro**
+
+O dado mais expressivo desta página é o **crescimento de ~235% no lucro entre 2013 e 2014** — de R$ 3,87 Mi para R$ 13,01 Mi — sobre uma base de vendas que também cresceu, mas em proporção menor. Isso indica uma **melhora significativa na eficiência operacional ou na política de preços** ao longo do período. Relacionando com a receita total de R$ 118,73 Mi, a margem de lucro consolidada fica em torno de **14,2%** — um indicador relevante para benchmarking setorial. No recorte por país (2013), **Germany** lidera com R$ 1,11 Mi de lucro, enquanto **United States** apresenta o menor resultado (R$ 552 mil), sugerindo que há oportunidade de revisão de estratégia comercial nesse mercado. O gráfico de cascata reforça que o crescimento trimestral foi consistente e progressivo, sem quedas, o que indica solidez no desempenho ao longo do ano.
 
 ---
 
-### 📄 Página 3 — Report (Report de Vendas Detalhado)
+### Página 3 — Report (Report de Vendas Detalhado)
 
 > Visão comparativa de vendas e gross sales: evolução mensal, desempenho trimestral e análise de crescimento.
 
@@ -177,13 +177,13 @@ O relatório é composto por **3 páginas navegáveis**, acessíveis pelas abas 
   - Outubro registra o maior volume: **~22 Mi** em Gross Sales e **~17 Mi** em Sales
   - Evidencia sazonalidade e impacto de descontos sobre a receita bruta
 
-> 💡 **Análise — Impacto dos Descontos e Eficiência por Trimestre**
->
-> A comparação entre **Gross Sales e Sales** nesta página revela o impacto real da política de descontos sobre a receita: em outubro, por exemplo, a diferença entre os ~22 Mi de Gross Sales e os ~17 Mi de Sales representa **cerca de 5 Mi "perdidos" em desconto em um único mês** — o maior spread absoluto do período. Isso levanta uma questão estratégica relevante: os descontos concedidos nos meses de pico estão sendo convertidos em volume suficiente para justificar a compressão de margem? Na visão por trimestre, o **Trim 4 também domina o lucro** com R$ 7,52 Mi (44,5% do total), mas os trimestres 1 e 2 — existentes apenas em 2014 — já somam R$ 5,86 Mi juntos, sinalizando que a empresa entrou em 2014 com operação mais robusta e distribuída ao longo do ano, o que é um indicativo positivo de maturidade comercial.
+**Análise — Impacto dos Descontos e Eficiência por Trimestre**
+
+A comparação entre **Gross Sales e Sales** nesta página revela o impacto real da política de descontos sobre a receita: em outubro, por exemplo, a diferença entre os ~22 Mi de Gross Sales e os ~17 Mi de Sales representa **cerca de 5 Mi "perdidos" em desconto em um único mês** — o maior spread absoluto do período. Isso levanta uma questão estratégica relevante: os descontos concedidos nos meses de pico estão sendo convertidos em volume suficiente para justificar a compressão de margem? Na visão por trimestre, o **Trim 4 também domina o lucro** com R$ 7,52 Mi (44,5% do total), mas os trimestres 1 e 2 — existentes apenas em 2014 — já somam R$ 5,86 Mi juntos, sinalizando que a empresa entrou em 2014 com operação mais robusta e distribuída ao longo do ano, o que é um indicativo positivo de maturidade comercial.
 
 ---
 
-## 🎨 Design e Identidade Visual
+## Design e Identidade Visual
 
 | Elemento | Especificação |
 |---|---|
@@ -196,7 +196,7 @@ O relatório é composto por **3 páginas navegáveis**, acessíveis pelas abas 
 
 ---
 
-## 🛠️ Recursos do Power BI Aplicados
+## Recursos do Power BI Aplicados
 
 - ✅ Gráfico de Área
 - ✅ Gráfico de Barras Horizontais
@@ -211,14 +211,6 @@ O relatório é composto por **3 páginas navegáveis**, acessíveis pelas abas 
 - ✅ Botões de navegação entre páginas
 - ✅ KPI Cards
 - ✅ Medidas DAX (Soma de Sales, Soma de Profit, Soma de Gross Sales)
-
----
-
-## 📚 Curso
-
-**Formação Power BI Analyst — DIO**
-- 🎓 Módulo: *Criando um Relatório de Vendas e Lucros com Data Analytics com Power BI*
-- 👩‍🏫 Instrutora: Juliana Mascarenhas
 
 ---
 
