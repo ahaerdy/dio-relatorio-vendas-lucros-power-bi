@@ -129,7 +129,7 @@ O relatório é composto por **3 páginas navegáveis**, acessíveis pelas abas 
   | Mexico | 592.670,26 |
   | United States | 552.570,83 |
 
-- **Gráfico Radar — Visual Personalizado:** Análise multidimensional do lucro por segmento.
+- **Gráfico Radar — Soma de Profit por Product:** Visual personalizado (`radarChart.0.5.6.pbiviz`) exibindo o lucro distribuído entre os 6 produtos em formato de teia multidimensional, com os seguintes eixos: **Paseo** (topo), **VTT** (direita superior), **Amarilla** (direita inferior), **Velo** (base), **Montana** (esquerda inferior) e **Carretera** (esquerda superior).
 
 - **Treemap — Soma de Profit por Segment:** Representação proporcional da participação de cada segmento no lucro total (Government e Small Business em destaque).
 
