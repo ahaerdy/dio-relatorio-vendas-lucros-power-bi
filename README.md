@@ -1,4 +1,4 @@
-# 📊 Relatório de Vendas e Lucros com Data Analytics com Power BI
+# Relatório de Vendas e Lucros com Data Analytics com Power BI
 
 ## Descrição
 
