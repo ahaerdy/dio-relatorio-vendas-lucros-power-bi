@@ -220,3 +220,4 @@ A comparação entre **Gross Sales e Sales** nesta página revela o impacto real
 - [Financial Sample — Microsoft](https://learn.microsoft.com/pt-br/power-bi/create-reports/sample-financial-download)
 - [Documentação Power BI](https://learn.microsoft.com/pt-br/power-bi/)
 - [AppSource — Power BI Visuals](https://appsource.microsoft.com/pt-br/marketplace/apps?product=power-bi-visuals)
+- [Repositório de Estudos – Bootcamp NTT DATA - Engenharia de Dados com Python](https://github.com/ahaerdy/DIO-learning/tree/main/NTT%20DATA-Engenharia%20de%20Dados%20com%20Python#-reposit%C3%B3rio-de-estudos--bootcamp-ntt-data-engenharia-de-dados-com-python)
